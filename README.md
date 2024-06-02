@@ -80,6 +80,3 @@ The model filenames (without the `.npz` extension) correspond to the
 ### Datasets Used
 
 - [FER 2013](https://www.kaggle.com/datasets/msambare/fer2013) Dataset is used for the training of model.
-
-### Results
-- will be added soon.
